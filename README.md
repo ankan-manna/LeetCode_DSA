@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-spiral-matrix-iv](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -83,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0179-largest-number) |
 | [1256-rank-transform-of-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2677-cousins-in-binary-tree-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
