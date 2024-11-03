@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0812-rotate-string](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2586-longest-square-streak-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
