@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1917-maximum-average-pass-ratio](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2411-spiral-matrix-iv) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0179-largest-number) |
 | [0670-maximum-swap](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0670-maximum-swap) |
+| [1917-maximum-average-pass-ratio](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1917-maximum-average-pass-ratio) |
 ## Sorting
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
