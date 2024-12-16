@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2411-spiral-matrix-iv](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2411-spiral-matrix-iv) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0670-maximum-swap](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0670-maximum-swap) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -187,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
