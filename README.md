@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0001-two-sum) |
+| [0079-word-search](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0179-largest-number) |
 | [0733-flood-fill](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0733-flood-fill) |
 | [0952-word-subsets](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0952-word-subsets) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0812-rotate-string](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0812-rotate-string) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0733-flood-fill) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0988-flip-equivalent-binary-trees) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0079-word-search) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
