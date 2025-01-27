@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1418-fair-distribution-of-cookies](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1524-string-matching-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0491-non-decreasing-subsequences) |
+| [1418-fair-distribution-of-cookies](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1418-fair-distribution-of-cookies](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Recursion
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0079-word-search) |
 | [0491-non-decreasing-subsequences](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0491-non-decreasing-subsequences) |
+| [1418-fair-distribution-of-cookies](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
@@ -227,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
