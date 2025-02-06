@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
