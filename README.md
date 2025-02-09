@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0179-largest-number) |
+| [0287-find-the-duplicate-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0733-flood-fill](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0733-flood-fill) |
 | [0952-word-subsets](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0952-word-subsets) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0491-non-decreasing-subsequences) |
 | [1418-fair-distribution-of-cookies](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 ## String Matching
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
