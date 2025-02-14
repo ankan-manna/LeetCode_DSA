@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
