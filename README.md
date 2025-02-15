@@ -192,11 +192,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0155-min-stack) |
 | [1002-maximum-width-ramp](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0155-min-stack) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
