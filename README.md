@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0733-flood-fill) |
 | [0952-word-subsets](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1002-maximum-width-ramp) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0491-non-decreasing-subsequences](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1502-construct-k-palindrome-strings) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1002-maximum-width-ramp) |
 ## Backtracking
 |  |
