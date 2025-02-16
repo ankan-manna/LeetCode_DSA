@@ -5,7 +5,7 @@ public:
         int l=0,r=0,len=0;
         //int map[256]={-1};
          int map[256];
-        memset(map, -1, sizeof(map));
+        memset(map, -1, sizeof(map));// to handel " "=>1 {does not know how}
         while(r<s.length()){
             if(map[s[r]]!=-1){
                 if(map[s[r]]>=l)
