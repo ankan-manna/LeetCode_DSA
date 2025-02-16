@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0812-rotate-string](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0812-rotate-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1418-fair-distribution-of-cookies) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0491-non-decreasing-subsequences) |
 | [1418-fair-distribution-of-cookies](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
