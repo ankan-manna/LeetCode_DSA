@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0229-majority-element-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0952-word-subsets) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0229-majority-element-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0229-majority-element-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
