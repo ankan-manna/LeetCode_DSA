@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0670-maximum-swap](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0670-maximum-swap) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankan-manna/LeetCode_DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0179-largest-number) |
 | [0670-maximum-swap](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0670-maximum-swap) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1502-construct-k-palindrome-strings](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1917-maximum-average-pass-ratio) |
 ## Sorting
