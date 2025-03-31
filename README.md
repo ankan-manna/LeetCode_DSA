@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0670-maximum-swap](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0670-maximum-swap) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
