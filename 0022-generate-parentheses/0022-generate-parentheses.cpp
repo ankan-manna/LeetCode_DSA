@@ -1,22 +1,18 @@
 class Solution {
-private:
-    void solve(vector<string>&ans,string str,int fc,int rc){
-        if(fc==0 && rc==0){
-            ans.push_back(str);
-            return;
-        }
-        if(fc>=0){
-            solve(ans,str+"(",fc-1,rc);
-        }
-        if(rc>fc){
-            solve(ans,str+")",fc,rc-1);
-        }
-    }
 public:
+void solve(int ob,int cb,string str,vector<string>&ans){
+    if(ob<=0 && cb<=0){
+        ans.push_back(str);
+        return;
+    }
+    if(ob>0) solve(ob-1,cb,str+"(",ans);
+    if(cb>ob) solve(ob,cb-1,str+")",ans);
+}
     vector<string> generateParenthesis(int n) {
-        vector<string>ans;
         string str="";
-        solve(ans,str,n,n);
+        vector<string>ans;
+        int ob=n,cb=n;
+        solve(ob,cb,str,ans);
         return ans;
     }
 };
