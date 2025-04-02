@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0491-non-decreasing-subsequences) |
 | [1418-fair-distribution-of-cookies](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1418-fair-distribution-of-cookies) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0491-non-decreasing-subsequences) |
