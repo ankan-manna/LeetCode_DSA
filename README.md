@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0131-palindrome-partitioning) |
