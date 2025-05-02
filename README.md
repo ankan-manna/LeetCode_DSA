@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1380-number-of-closed-islands](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2411-spiral-matrix-iv](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0733-flood-fill) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0988-flip-equivalent-binary-trees) |
+| [1380-number-of-closed-islands](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1380-number-of-closed-islands) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1380-number-of-closed-islands) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -358,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0200-number-of-islands) |
+| [1380-number-of-closed-islands](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1380-number-of-closed-islands) |
 <!---LeetCode Topics End-->
