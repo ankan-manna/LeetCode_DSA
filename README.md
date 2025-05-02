@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0491-non-decreasing-subsequences) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0099-recover-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0733-flood-fill) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0988-flip-equivalent-binary-trees) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ankan-manna/LeetCode_DSA/tree/master/1036-rotting-oranges) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -350,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ankan-manna/LeetCode_DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
