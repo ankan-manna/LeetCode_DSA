@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0670-maximum-swap](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0670-maximum-swap) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankan-manna/LeetCode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Depth-First Search
 |  |
